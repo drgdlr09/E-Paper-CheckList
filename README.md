@@ -2,7 +2,7 @@
 For the final week of Half-Life, I decided to design the E-Paper CheckList, a simple to-do list device with a 2.9" E-Paper screen and three buttons. As a student with a lot of my plate right now, I built the CheckList in order to stay more organized and make sure I get everything I need to do done. I chose e-paper over other types of screens because it keeps showing the list even with no power, meaning the device is power-efficient and can last for a long time on one charge. You can scroll through the list using the buttons and check off items as you complete them.
 
 # How it Works
-TThe E-Paper Checklist has a XIAO ESP32-S3 microcontroller, a 2.9" e-paper screen for showing the list, three buttons (UP, OK and DOWN) for moving through the list and checking items off, a LiPo battery with an SS12D00 on/off switch, and a voltage divider for reading the battery level.
+The E-Paper Checklist has a XIAO ESP32-S3 microcontroller, a 2.9" e-paper screen for showing the list, three buttons (UP, OK and DOWN) for moving through the list and checking items off, a LiPo battery with an SS12D00 on/off switch, and a voltage divider for reading the battery level.
 
 The E-Paper Checklist is built around the Seeed XIAO ESP32-S3, the same microcontroller I used in my Virtual SandBox. I picked it because it has a built-in battery charger and a deep sleep mode that uses almost nearly no power.
 
