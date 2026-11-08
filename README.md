@@ -18,4 +18,11 @@ The firmware is written in Arduino C++ and uses the GxEPD2 library for the e-pap
 The list is hardcoded in the firmware, so it is not editable until you change the actual code. In the future, I want to create some sort of app or webpage that allows you to update a schedule from another device, like a smartphone.
 
 # Bill of Materials
+| Part | Quantity | Unit Price | Total | Vendor |
+| --- | --- | --- | --- | --- |
+| 3.7V LiPo Battery | 1 | 1.06 | 1.06 | AliExpress |
+| XIAO ESP32-S3 | 1 | 6.83 | 6.83 | AliExpress |
+| 2.9" E-Paper Screen | 1 | 14.22 | 14.22 | AliExpress |
+| PCB | 1 | 1.75 | 1.75 | JLCPCB |
 
+TOTAL PRICE (INCLUDING $6.56 SHIPPING/TAX): $30.42
