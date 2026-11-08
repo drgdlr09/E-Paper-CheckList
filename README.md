@@ -26,3 +26,4 @@ The list is hardcoded in the firmware, so it is not editable until you change th
 | PCB | 1 | 1.75 | 1.75 | JLCPCB |
 
 TOTAL PRICE (INCLUDING $6.56 SHIPPING/TAX): $30.42
+*NOTE: Other parts are needed for this project (buttons, capacitors, resistors, switches), but I either already have them or will have extras after purchasing them as part of another week.
